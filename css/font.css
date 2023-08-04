@@ -1,7 +1,18 @@
 @font-face {
-  font-family: 'YSHST'; 
-  src: url(/font/2.TTF);
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
+    font-family: 'tzy';
+    /* 字体名自定义即可 */
+    src: url('https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2'); 
+    /* 字体文件路径 */
+    font-display: swap;
 }
+
+body,
+.gitcalendar {
+    font-family: tzy !important;
+}
+
+
+作者: Ethan.Tzy
+链接: https://fe32.top/articles/hexo1606/#%E4%BE%A7%E8%BE%B9%E6%A0%8F%E7%94%B5%E5%AD%90%E6%97%B6%E9%92%9F
+来源: 唐志远の博客
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
