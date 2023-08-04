@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<p>##这是第一篇文章</p>]]></content>
       
       
+      <categories>
+          
+          <category> 生活记录 </category>
+          
+      </categories>
+      
       
         <tags>
             
@@ -48,17 +54,6 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/font.css"/>
       <url>/css/font.css</url>
@@ -81,6 +76,17 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -92,9 +98,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/musics/index.html"/>
-      <url>/musics/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -103,9 +109,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/musics/index.html"/>
+      <url>/musics/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
