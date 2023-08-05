@@ -37,7 +37,7 @@
       <link href="/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E4%B8%80/"/>
       <url>/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E4%B8%80/</url>
       
-        <content type="html"><![CDATA[<h1 id="光的干涉"><a href="#光的干涉" class="headerlink" title="光的干涉"></a>光的干涉</h1><p><strong>光的干涉：</strong>满足一定条件的两束光叠加时，再叠加区域的光强度或有明暗稳定的分布。</p><h2 id="获得相干光的两种方式："><a href="#获得相干光的两种方式：" class="headerlink" title="获得相干光的两种方式："></a>获得相干光的两种方式：</h2><p>1.分波阵面法（杨氏双缝干涉实验）<br>2.分振幅法（薄膜干涉）</p><h1 id="杨氏双缝干涉"><a href="#杨氏双缝干涉" class="headerlink" title="杨氏双缝干涉"></a>杨氏双缝干涉</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="光的干涉"><a href="#光的干涉" class="headerlink" title="光的干涉"></a>光的干涉</h1><p><strong>光的干涉：</strong>满足一定条件的两束光叠加时，再叠加区域的光强度或有明暗稳定的分布。</p><h2 id="相干条件"><a href="#相干条件" class="headerlink" title="相干条件"></a>相干条件</h2><p>1.两束光的频率相等</p><p>2.振动方向相同</p><p>3.相位差恒定<script type="math/tex">\Delta\varphi=\varphi_{1}-\varphi_{2}</script> </p><script type="math/tex; mode=display">evidence_{i}=\sum_{j}W_{ij}x_{j}+b_{i}</script><h2 id="普通光源获得相干光的两种方式："><a href="#普通光源获得相干光的两种方式：" class="headerlink" title="普通光源获得相干光的两种方式："></a>普通光源获得相干光的两种方式：</h2><p>1.分波阵面法（杨氏双缝干涉实验）<br>2.分振幅法（薄膜干涉）</p><h1 id="光程"><a href="#光程" class="headerlink" title="光程"></a>光程</h1><p>为了方便地比较、计算光在经过不同的介质中时引起的相差，引入了<strong>光程</strong>的概念。<br>光在不同的介质中的传播速度<script type="math/tex">\Delta\varphi=\frac{2\pi}{\lambda^{'}}r</script><br>同一束光在不同的介质中传播时，频率不变而波长不同。以<script type="math/tex">\lambda</script>表示，以n表示介质的折射率，则有：</p><script type="math/tex; mode=display">\lambda^{'}=\frac{\lambda}{n}</script><p>从而得到： <script type="math/tex">\Delta\varphi=\frac{2\pi}{\lambda}nr</script> </p><h1 id="杨氏双缝干涉"><a href="#杨氏双缝干涉" class="headerlink" title="杨氏双缝干涉"></a>杨氏双缝干涉</h1>]]></content>
       
       
       <categories>
@@ -145,9 +145,9 @@
     
     
     <entry>
-      <title>图片</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
+      <title>电影</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -156,9 +156,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
+      <title>图片</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
