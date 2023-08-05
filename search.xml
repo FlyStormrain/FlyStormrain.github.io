@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>光的干涉三：薄膜干涉</title>
+      <link href="/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E4%B8%89%EF%BC%9A%E8%96%84%E8%86%9C%E5%B9%B2%E6%B6%89/"/>
+      <url>/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E4%B8%89%EF%BC%9A%E8%96%84%E8%86%9C%E5%B9%B2%E6%B6%89/</url>
+      
+        <content type="html"><![CDATA[<h1 id="薄膜干涉"><a href="#薄膜干涉" class="headerlink" title="薄膜干涉"></a>薄膜干涉</h1><p>薄膜干涉主要有两种：一种等厚干涉；一种等倾干涉。</p><p>定义：面光源</p><h2 id="1-等厚干涉"><a href="#1-等厚干涉" class="headerlink" title="1.等厚干涉"></a>1.等厚干涉</h2><h3 id="1-劈尖干涉"><a href="#1-劈尖干涉" class="headerlink" title="1.劈尖干涉"></a>1.劈尖干涉</h3><h3 id="2-牛顿环"><a href="#2-牛顿环" class="headerlink" title="2.牛顿环"></a>2.牛顿环</h3><h2 id="2-等倾干涉"><a href="#2-等倾干涉" class="headerlink" title="2.等倾干涉"></a>2.等倾干涉</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 光学笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Physics </tag>
+            
+            <tag> Optics </tag>
+            
+            <tag> Notes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇文章</title>
       <link href="/2023/08/05/page/"/>
       <url>/2023/08/05/page/</url>
@@ -30,10 +59,10 @@
     
     <entry>
       <title>光的干涉一：干涉原理</title>
-      <link href="/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89/"/>
-      <url>/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89/</url>
+      <link href="/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E4%B8%80/"/>
+      <url>/2023/08/05/Optics/%E5%85%89%E7%9A%84%E5%B9%B2%E6%B6%89%E4%B8%80/</url>
       
-        <content type="html"><![CDATA[<h1 id="d"><a href="#d" class="headerlink" title="d"></a>d</h1><p>$\sqrt{3x-1}+(1+x)^2$ is an example of a $\LaTeX$ inline equation.he Lorenz Equations:</p><script type="math/tex; mode=display">\begin{aligned}\dot{x} & = \sigma(y-x) \\dot{y} & = \rho x - y - xz \\dot{z} & = -\beta z + xy\end{aligned}</script><script type="math/tex; mode=display">J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}</script>]]></content>
+        <content type="html"><![CDATA[<h1 id="光的干涉"><a href="#光的干涉" class="headerlink" title="光的干涉"></a>光的干涉</h1><p>$\sqrt{3x-1}+(1+x)^2$ is an example of a $\LaTeX$ inline equation.he Lorenz Equations:</p><script type="math/tex; mode=display">\begin{aligned}\dot{x} & = \sigma(y-x) \\dot{y} & = \rho x - y - xz \\dot{z} & = -\beta z + xy\end{aligned}</script><script type="math/tex; mode=display">J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}</script><h1 id="杨氏双缝干涉"><a href="#杨氏双缝干涉" class="headerlink" title="杨氏双缝干涉"></a>杨氏双缝干涉</h1>]]></content>
       
       
       <categories>
@@ -87,7 +116,7 @@
       <link href="/css/font.css"/>
       <url>/css/font.css</url>
       
-        <content type="html"><![CDATA[@font-face {    /*字体名称，名字可以随便起，但是注意要一致，建议英文*/    font-family: 'PMZDCST';    font-display: swap;    src: url('/Blog/source/font/1.otf') format("truetype");  }]]></content>
+        <content type="html"><![CDATA[@font-face {    /*字体名称，名字可以随便起，但是注意要一致，建议英文*/    font-family: 'PMZDCST';    font-display: swap;    src: url('/ font/1.otf') format("truetype");  }]]></content>
       
     </entry>
     
