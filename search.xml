@@ -119,6 +119,28 @@
     
     
     <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -130,9 +152,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -152,28 +174,6 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>番剧</title>
       <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html"/>
       <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html</url>
@@ -185,9 +185,9 @@
     
     
     <entry>
-      <title>图片</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
+      <title>电影</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -196,9 +196,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
+      <title>图片</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
