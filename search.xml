@@ -141,6 +141,17 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -163,9 +174,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>音乐</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -185,17 +196,6 @@
     
     
     <entry>
-      <title>图片</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>电影</title>
       <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
       <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
@@ -207,9 +207,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
+      <title>图片</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
