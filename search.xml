@@ -119,17 +119,6 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -141,11 +130,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/custom.js"/>
-      <url>/js/custom.js</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀我好想你啊';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '太好了，你回来了～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -157,6 +146,17 @@
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[@font-face {  /* 为载入的字体取名字(随意) */  font-family: 'YSHST';   /* 字体文件地址(相对或者绝对路径都可以) */  src: url(/font/1.otf);  /* 定义加粗样式(加粗多少) */  font-weight: normal;  /* 定义字体样式(斜体/非斜体) */  font-style: normal;  /* 定义显示样式 */  font-display: swap;}/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/custom.js"/>
+      <url>/js/custom.js</url>
+      
+        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀我好想你啊';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '太好了，你回来了～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
       
     </entry>
     
@@ -207,9 +207,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
+      <title>电影</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -218,9 +218,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
+      <title>音乐</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
