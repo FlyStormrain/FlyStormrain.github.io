@@ -182,7 +182,7 @@
       <link href="/2023/08/05/Life/HelloWorld/"/>
       <url>/2023/08/05/Life/HelloWorld/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2><pre><code>在考研之余，为了适当放松，在B站的UP主下大致完成了Blog的框架。因为时间有限，没有太多精力继续美化。因此在研考结束后继续润色。</code></pre>]]></content>
       
       
       <categories>
@@ -206,17 +206,6 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -228,9 +217,9 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -261,9 +250,20 @@
     
     
     <entry>
-      <title>番剧</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html</url>
+      <title></title>
+      <link href="/js/custom.js"/>
+      <url>/js/custom.js</url>
+      
+        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀我好想你啊';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '太好了，你回来了～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -272,11 +272,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/custom.js"/>
-      <url>/js/custom.js</url>
+      <title>番剧</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html</url>
       
-        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀我好想你啊';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '太好了，你回来了～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
