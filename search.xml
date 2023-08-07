@@ -206,9 +206,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -217,9 +217,20 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[@font-face {  /* 为载入的字体取名字(随意) */  font-family: 'YSHST';   /* 字体文件地址(相对或者绝对路径都可以) */  src: url(/font/1.otf);  /* 定义加粗样式(加粗多少) */  font-weight: normal;  /* 定义字体样式(斜体/非斜体) */  font-style: normal;  /* 定义显示样式 */  font-display: swap;}/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 波浪css */.main-hero-waves-area {  width: 100%;  position: absolute;  left: 0;  bottom: -11px;  z-index: 5;}.waves-area .waves-svg {  width: 100%;  height: 5rem;}/* Animation */.parallax > use {  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;}.parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #f7f9febd;}.parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #f7f9fe82;}.parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #f7f9fe36;}.parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #f7f9fe;}/* 黑色模式背景 */[data-theme="dark"] .parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #18171dc8;}[data-theme="dark"] .parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #18171d80;}[data-theme="dark"] .parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #18171d3e;}[data-theme="dark"] .parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #18171d;}@keyframes move-forever {  0% {    transform: translate3d(-90px, 0, 0);  }  100% {    transform: translate3d(85px, 0, 0);  }}/*Shrinking for mobile*/@media (max-width: 768px) {  .waves-area .waves-svg {    height: 40px;    min-height: 40px;  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -233,17 +244,6 @@
       <url>/js/custom.js</url>
       
         <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀我好想你啊';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '太好了，你回来了～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[@font-face {  /* 为载入的字体取名字(随意) */  font-family: 'YSHST';   /* 字体文件地址(相对或者绝对路径都可以) */  src: url(/font/1.otf);  /* 定义加粗样式(加粗多少) */  font-weight: normal;  /* 定义字体样式(斜体/非斜体) */  font-style: normal;  /* 定义显示样式 */  font-display: swap;}/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 波浪css */.main-hero-waves-area {  width: 100%;  position: absolute;  left: 0;  bottom: -11px;  z-index: 5;}.waves-area .waves-svg {  width: 100%;  height: 5rem;}/* Animation */.parallax > use {  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;}.parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #f7f9febd;}.parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #f7f9fe82;}.parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #f7f9fe36;}.parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #f7f9fe;}/* 黑色模式背景 */[data-theme="dark"] .parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #18171dc8;}[data-theme="dark"] .parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #18171d80;}[data-theme="dark"] .parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #18171d3e;}[data-theme="dark"] .parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #18171d;}@keyframes move-forever {  0% {    transform: translate3d(-90px, 0, 0);  }  100% {    transform: translate3d(85px, 0, 0);  }}/*Shrinking for mobile*/@media (max-width: 768px) {  .waves-area .waves-svg {    height: 40px;    min-height: 40px;  }}]]></content>
       
     </entry>
     
@@ -272,9 +272,9 @@
     
     
     <entry>
-      <title>番剧</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html</url>
+      <title>图片</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -283,9 +283,9 @@
     
     
     <entry>
-      <title>图片</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
+      <title>番剧</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
