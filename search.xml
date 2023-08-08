@@ -4,11 +4,40 @@
   
     
     <entry>
+      <title>量子力学讲义</title>
+      <link href="/2023/08/08/QM/QM%20Note/"/>
+      <url>/2023/08/08/QM/QM%20Note/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是田光善老师的量子力学的讲义。教学视频请在B站中寻找"><a href="#这是田光善老师的量子力学的讲义。教学视频请在B站中寻找" class="headerlink" title="这是田光善老师的量子力学的讲义。教学视频请在B站中寻找"></a>这是田光善老师的量子力学的讲义。教学视频请在B站中寻找</h1><div class="row">    <embed src="https://blog.flystormrain.top/pdf/QM/量子力学讲义.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 量子力学笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Physics </tag>
+            
+            <tag> Quantum mechanics </tag>
+            
+            <tag> Notes </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>量子力学的基础</title>
       <link href="/2023/08/07/QM/QM1/"/>
       <url>/2023/08/07/QM/QM1/</url>
       
-        <content type="html"><![CDATA[<div class="row">    <embed src="https://1drv.ms/b/s!Ar9qMfR_HLiIow-1v1hGGbxkpMVB?e=c8mnxA" width="100%" height="550" type="application/pdf"></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       <categories>
@@ -37,7 +66,7 @@
       <link href="/2023/08/05/QM/QM3/"/>
       <url>/2023/08/05/QM/QM3/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="力学量"><a href="#力学量" class="headerlink" title="力学量"></a>力学量</h1>]]></content>
       
       
       <categories>
@@ -179,8 +208,8 @@
     
     <entry>
       <title>第一篇文章</title>
-      <link href="/2023/08/05/HelloWorld/"/>
-      <url>/2023/08/05/HelloWorld/</url>
+      <link href="/2023/08/05/Life/HelloWorld/"/>
+      <url>/2023/08/05/Life/HelloWorld/</url>
       
         <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2><pre><code>在考研之余，为了适当放松，在B站的UP主下大致完成了Blog的框架。因为时间有限，没有太多精力继续美化。因此在研考结束后继续润色。</code></pre><div class="row">    <embed src="https://blog.flystormrain.top/pdf/QM/阜阳师范大学学生手册.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
       
@@ -217,17 +246,6 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[@font-face {  /* 为载入的字体取名字(随意) */  font-family: 'YSHST';   /* 字体文件地址(相对或者绝对路径都可以) */  src: url(/font/1.otf);  /* 定义加粗样式(加粗多少) */  font-weight: normal;  /* 定义字体样式(斜体/非斜体) */  font-style: normal;  /* 定义显示样式 */  font-display: swap;}/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 波浪css */.main-hero-waves-area {  width: 100%;  position: absolute;  left: 0;  bottom: -11px;  z-index: 5;}.waves-area .waves-svg {  width: 100%;  height: 5rem;}/* Animation */.parallax > use {  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;}.parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #f7f9febd;}.parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #f7f9fe82;}.parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #f7f9fe36;}.parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #f7f9fe;}/* 黑色模式背景 */[data-theme="dark"] .parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #18171dc8;}[data-theme="dark"] .parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #18171d80;}[data-theme="dark"] .parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #18171d3e;}[data-theme="dark"] .parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #18171d;}@keyframes move-forever {  0% {    transform: translate3d(-90px, 0, 0);  }  100% {    transform: translate3d(85px, 0, 0);  }}/*Shrinking for mobile*/@media (max-width: 768px) {  .waves-area .waves-svg {    height: 40px;    min-height: 40px;  }}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -239,9 +257,20 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[@font-face {  /* 为载入的字体取名字(随意) */  font-family: 'YSHST';   /* 字体文件地址(相对或者绝对路径都可以) */  src: url(/font/1.otf);  /* 定义加粗样式(加粗多少) */  font-weight: normal;  /* 定义字体样式(斜体/非斜体) */  font-style: normal;  /* 定义显示样式 */  font-display: swap;}/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 波浪css */.main-hero-waves-area {  width: 100%;  position: absolute;  left: 0;  bottom: -11px;  z-index: 5;}.waves-area .waves-svg {  width: 100%;  height: 5rem;}/* Animation */.parallax > use {  animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;}.parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #f7f9febd;}.parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #f7f9fe82;}.parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #f7f9fe36;}.parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #f7f9fe;}/* 黑色模式背景 */[data-theme="dark"] .parallax > use:nth-child(1) {  animation-delay: -2s;  animation-duration: 7s;  fill: #18171dc8;}[data-theme="dark"] .parallax > use:nth-child(2) {  animation-delay: -3s;  animation-duration: 10s;  fill: #18171d80;}[data-theme="dark"] .parallax > use:nth-child(3) {  animation-delay: -4s;  animation-duration: 13s;  fill: #18171d3e;}[data-theme="dark"] .parallax > use:nth-child(4) {  animation-delay: -5s;  animation-duration: 20s;  fill: #18171d;}@keyframes move-forever {  0% {    transform: translate3d(-90px, 0, 0);  }  100% {    transform: translate3d(85px, 0, 0);  }}/*Shrinking for mobile*/@media (max-width: 768px) {  .waves-area .waves-svg {    height: 40px;    min-height: 40px;  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -261,20 +290,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>图片</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -294,6 +312,17 @@
     
     
     <entry>
+      <title>电影</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>音乐</title>
       <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
       <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
@@ -305,9 +334,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
+      <title>图片</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
