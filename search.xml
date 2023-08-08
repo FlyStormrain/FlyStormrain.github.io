@@ -8,7 +8,7 @@
       <link href="/2023/08/07/QM/QM1/"/>
       <url>/2023/08/07/QM/QM1/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="row">    <embed src="https://1drv.ms/b/s!Ar9qMfR_HLiIow-1v1hGGbxkpMVB?e=c8mnxA" width="100%" height="550" type="application/pdf"></div>]]></content>
       
       
       <categories>
@@ -22,9 +22,9 @@
             
             <tag> Physics </tag>
             
-            <tag> Notes </tag>
-            
             <tag> Quantum mechanics </tag>
+            
+            <tag> Notes </tag>
             
         </tags>
       
@@ -51,9 +51,9 @@
             
             <tag> Physics </tag>
             
-            <tag> Notes </tag>
-            
             <tag> Quantum mechanics </tag>
+            
+            <tag> Notes </tag>
             
         </tags>
       
@@ -80,9 +80,9 @@
             
             <tag> Physics </tag>
             
-            <tag> Notes </tag>
-            
             <tag> Quantum mechanics </tag>
+            
+            <tag> Notes </tag>
             
         </tags>
       
@@ -109,9 +109,9 @@
             
             <tag> Physics </tag>
             
-            <tag> Optics </tag>
-            
             <tag> Notes </tag>
+            
+            <tag> Optics </tag>
             
         </tags>
       
@@ -138,9 +138,9 @@
             
             <tag> Physics </tag>
             
-            <tag> Optics </tag>
-            
             <tag> Notes </tag>
+            
+            <tag> Optics </tag>
             
         </tags>
       
@@ -167,9 +167,9 @@
             
             <tag> Physics </tag>
             
-            <tag> Optics </tag>
-            
             <tag> Notes </tag>
+            
+            <tag> Optics </tag>
             
         </tags>
       
@@ -179,10 +179,10 @@
     
     <entry>
       <title>第一篇文章</title>
-      <link href="/2023/08/05/Life/HelloWorld/"/>
-      <url>/2023/08/05/Life/HelloWorld/</url>
+      <link href="/2023/08/05/HelloWorld/"/>
+      <url>/2023/08/05/HelloWorld/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2><pre><code>在考研之余，为了适当放松，在B站的UP主下大致完成了Blog的框架。因为时间有限，没有太多精力继续美化。因此在研考结束后继续润色。</code></pre>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2><pre><code>在考研之余，为了适当放松，在B站的UP主下大致完成了Blog的框架。因为时间有限，没有太多精力继续美化。因此在研考结束后继续润色。</code></pre><div class="row">    <embed src="pdf/1.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
       
       
       <categories>
@@ -206,9 +206,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -217,9 +217,9 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -294,9 +294,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
+      <title>电影</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -305,9 +305,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
+      <title>音乐</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
