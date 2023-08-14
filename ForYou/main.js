@@ -19,10 +19,6 @@
     textIndex = 0,
     textSize = 70
 
-
-
-
-
   function draw () {
     ctx.clearRect(0, 0, CANVASWIDTH, CANVASHEIGHT)
     ctx.fillStyle = 'rgb(255, 255, 255)'
@@ -212,4 +208,14 @@
       ctx.fill()
     }
   }
+  
+  var isChrome = /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+    if(!isChrome){
+      $('#iframeAudio').remove()
+  }
+  
+  // setTimeout(() => {
+    init()  
+  // }, 4000);
+  // mp3.play()
 })(window)
