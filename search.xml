@@ -246,17 +246,6 @@
     
     
     <entry>
-      <title>census</title>
-      <link href="/census/index.html"/>
-      <url>/census/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -268,22 +257,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/custom.js"/>
-      <url>/js/custom.js</url>
+      <title>census</title>
+      <link href="/census/index.html"/>
+      <url>/census/index.html</url>
       
-        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀我好想你啊';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '太好了，你回来了～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/weather.js"/>
-      <url>/js/weather.js</url>
-      
-        <content type="html"><![CDATA[WIDGET = {  "CONFIG": {    "modules": "01234",    "background": "5",    "tmpColor": "FF9900",    "tmpSize": "16",    "cityColor": "CCCCCC",    "citySize": "16",    "aqiColor": "D9D9D9",    "aqiSize": "16",    "weatherIconSize": "24",    "alertIconSize": "18",    "padding": "10px 5px 5px 10px",    "shadow": "0",    "language": "auto",    "borderRadius": "5",    "fixed": "false",    "vertical": "center",    "horizontal": "left",    "key": "49b32ebd62934603a9a9441cc23c88f7"  }}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -301,6 +279,17 @@
     
     
     <entry>
+      <title></title>
+      <link href="/js/custom.js"/>
+      <url>/js/custom.js</url>
+      
+        <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = '👀我好想你啊';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '太好了，你回来了～';    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -312,20 +301,20 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/js/weather.js"/>
+      <url>/js/weather.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[WIDGET = {  "CONFIG": {    "modules": "01234",    "background": "5",    "tmpColor": "FF9900",    "tmpSize": "16",    "cityColor": "CCCCCC",    "citySize": "16",    "aqiColor": "D9D9D9",    "aqiSize": "16",    "weatherIconSize": "24",    "alertIconSize": "18",    "padding": "10px 5px 5px 10px",    "shadow": "0",    "language": "auto",    "borderRadius": "5",    "fixed": "false",    "vertical": "center",    "horizontal": "left",    "key": "49b32ebd62934603a9a9441cc23c88f7"  }}]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>图片</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -345,9 +334,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
+      <title>图片</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -359,6 +348,17 @@
       <title>电影</title>
       <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html"/>
       <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/musics/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
