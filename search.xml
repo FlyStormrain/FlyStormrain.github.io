@@ -257,6 +257,17 @@
     
     
     <entry>
+      <title>census</title>
+      <link href="/census/index.html"/>
+      <url>/census/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -271,17 +282,6 @@
       <title>友链</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>census</title>
-      <link href="/census/index.html"/>
-      <url>/census/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
