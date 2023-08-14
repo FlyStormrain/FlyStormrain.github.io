@@ -15,7 +15,7 @@ WIDGET = {
     "language": "auto",
     "borderRadius": "5",
     "fixed": "false",
-    "vertical": "top",
+    "vertical": "center",
     "horizontal": "left",
     "key": "49b32ebd62934603a9a9441cc23c88f7"
   }

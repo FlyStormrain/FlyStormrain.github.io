@@ -235,17 +235,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -260,6 +249,17 @@
       <title>census</title>
       <link href="/census/index.html"/>
       <url>/census/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -294,18 +294,7 @@
       <link href="/js/weather.js"/>
       <url>/js/weather.js</url>
       
-        <content type="html"><![CDATA[WIDGET = {  "CONFIG": {    "modules": "01234",    "background": "5",    "tmpColor": "FF9900",    "tmpSize": "16",    "cityColor": "CCCCCC",    "citySize": "16",    "aqiColor": "D9D9D9",    "aqiSize": "16",    "weatherIconSize": "24",    "alertIconSize": "18",    "padding": "15px 10px 5px 10px",    "shadow": "0",    "language": "auto",    "borderRadius": "5",    "fixed": "false",    "vertical": "top",    "horizontal": "left",    "key": "49b32ebd62934603a9a9441cc23c88f7"  }}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[WIDGET = {  "CONFIG": {    "modules": "01234",    "background": "5",    "tmpColor": "FF9900",    "tmpSize": "16",    "cityColor": "CCCCCC",    "citySize": "16",    "aqiColor": "D9D9D9",    "aqiSize": "16",    "weatherIconSize": "24",    "alertIconSize": "18",    "padding": "15px 10px 5px 10px",    "shadow": "0",    "language": "auto",    "borderRadius": "5",    "fixed": "false",    "vertical": "center",    "horizontal": "left",    "key": "49b32ebd62934603a9a9441cc23c88f7"  }}]]></content>
       
     </entry>
     
@@ -323,9 +312,9 @@
     
     
     <entry>
-      <title>番剧</title>
-      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html"/>
-      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -337,6 +326,17 @@
       <title>图片</title>
       <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html"/>
       <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Gallery/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>番剧</title>
+      <link href="/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html"/>
+      <url>/%E7%99%BE%E5%AE%9D%E7%AE%B1/Bilibili/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
