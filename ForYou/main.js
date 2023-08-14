@@ -20,10 +20,7 @@
     textSize = 70
 
 
-//获取设备宽度
-  let  clientWidth = document.documentElement.clientWidth;
-//根据设计图中的canvas font字体的占比进行设置
-  let fontWidth = clientWidth*3*12.5/750;
+
 
 
   function draw () {
